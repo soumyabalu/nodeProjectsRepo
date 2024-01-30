@@ -1,0 +1,1 @@
+console.log('Hey, do you want to be friends with me. It yes, give a shakehand');
